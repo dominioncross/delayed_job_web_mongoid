@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name        = "delayed_job_web_mongoid"
-  gem.version     = "1.0.0"
+  gem.version     = "1.0.1"
   gem.author      = "Ben Petro"
   gem.email       = "benpetro@gmail.com"
   gem.homepage    = "https://github.com/benpetro/delayed_job_web_mongoid"
